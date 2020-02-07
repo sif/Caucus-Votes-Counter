@@ -1,0 +1,4 @@
+"Timestamp","Email","Precinct Code","Authentication Code #1 (either one)","Authentication Code #2 (either one)","Your name","Your current phone number","Joe Biden Count","Pete Buttigieg Count","Elizabeth Warren Count","Bernie Sanders Count","Amy Klobuchar Count"
+"2020/02/05 2:47:00 PM EST","John@Adair.com","2","LcaoBXz5","NtwkWINw","John Doe","123-456-7890","10","10","10","10","10"
+"2020/02/05 2:48:30 PM EST","Jane@Cedar.com","214","tm4wmZR8","vzEBvVNV","Jane Smith","234-789-0156","40","40","40","40","40"
+"2020/02/05 2:51:45 PM EST","hacked@Marion.com","936","IDONTKNOW","JUSTMAKEMYCANDIDATEWIN","Hacked","123-123-4567","9999","9999","9999","9999","9999"
